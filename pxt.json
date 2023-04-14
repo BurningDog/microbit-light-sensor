@@ -1,5 +1,5 @@
 {
-    "name": "microbit-light-sensor",
+    "name": "Light Sensor",
     "description": "",
     "dependencies": {
         "core": "*",
